@@ -1,14 +1,16 @@
-Package: com.jianghu.hook.syjl
-Version: 0.1-1
+Package: com.yqc.ytspcrack
+Version: 1.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.yqchook.deb
-Size: 290340
-MD5sum: 0388e7c2590ce1f62a034db867686585
-SHA1: 20d3a0bad40b9da1621902204a0286e018e340b0
-SHA256: e9b278e60b03b1bfe9db524befe20f4538e80b26d348f20dc84d2d037baef4c8
-Section: System
+Filename: ./debs/樱桃视频Crack.deb
+Size: 288646
+MD5sum: fc051269d2fa729bf2ad2da12ec41ba4
+SHA1: 093b5eae4beacec429c813c624865edeea72e3d4
+SHA256: ec773ddd1ff9ff029534982d194f83dfafc625577d813c57dc8f508a09f106f0
+Section: Tweaks
 Priority: optional
-Author: 江湖
-Name: syjl
+Homepage: http://suo.im/5XV0Nm
+Description: 解锁无限の试看，解锁收费の视频。下载地址：点击更多信息跳转下载 ios12用户按住更多信息两秒然后左滑才能进去🤒
+Author: 浥轻尘
+Name: 樱桃视频Crack
 
