@@ -1,0 +1,14 @@
+Package: com.jianghu.hook.syjl
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.jianghu.hook.syjl_0.1-1_iphoneos-arm.deb
+Size: 289926
+MD5sum: 02c3697aeaf0e87927550e9385096d4f
+SHA1: 8a711dbb27271fd2a97ba7cc97ce5e2618a3c382
+SHA256: fc9f53d1976af36bcb50cb9ed7339a858a123ea7b8478ec1734362c29fc09db7
+Section: System
+Priority: optional
+Author: 江湖
+Name: syjl
+
